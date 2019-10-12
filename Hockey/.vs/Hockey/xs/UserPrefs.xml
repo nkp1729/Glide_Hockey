@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{DF8879A6-B95D-C260-877D-65C584CFB6D2}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/HockeyRegion.cs">
+    <Files>
+      <File FileName="Assets/HitGoal.cs" Line="77" Column="41" />
+      <File FileName="Assets/PlayerAgent.cs" Line="65" Column="25" />
+      <File FileName="Assets/HockeyAcademy.cs" Line="1" Column="1" />
+      <File FileName="Assets/HockeyRegion.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hockey" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" expanded="True">
+                <Node name="ML-Agents" expanded="True">
+                  <Node name="Examples" expanded="True">
+                    <Node name="Soccer" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                    <Node name="Tennis" expanded="True">
+                      <Node name="Scripts" expanded="True" />
+                    </Node>
+                  </Node>
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="HockeyRegion.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9c2f86bb-4f34-4b7f-8085-4e7d343b8cf4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
