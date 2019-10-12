@@ -36,9 +36,11 @@ git clone https://github.com/nkp1729/Glide_Hockey
 ```
 
 3. Open Unity and open a new project pointing to the 'Hockey' folder.
-![Add Folder][AddFolder]
+![Add Folder][AddFolder.tiff]
 
 4. Goto File -> Build settings. Then chose the appropriate output for your platform and build to 'AirHockey' in the top level of the folder '/Glide_Hockey'
+
+![Build Settings][BuildSettings.tiff]
 
 
 ### Instructions
